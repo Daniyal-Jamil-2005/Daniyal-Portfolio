@@ -7,9 +7,19 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
 > A high-performance, modern, and interactive portfolio designed for **DevOps & Cloud Engineers**. Use this repository as a battle-tested template or reference implementation for showcasing cloud infrastructure, CI/CD pipelines, containerization projects, and full-stack capabilities.
+>
+> 
 
 ---
+ *********************************************************                   Live at https://daniyal-portfolio-one.vercel.app/                   ******************************************************************************************
 
+
+
+
+
+
+
+ 
 ## 🌟 Overview
 
 Welcome to my personal portfolio repository! I'm **Daniyal Jamil**, a passionate **DevOps & Cloud Engineer** specializing in automated infrastructure, cloud solutions (AWS & GCP), Kubernetes orchestration, robust CI/CD pipelines, and modern full-stack development.
