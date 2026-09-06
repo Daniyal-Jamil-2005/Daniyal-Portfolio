@@ -23,17 +23,15 @@ export default function Hero() {
           </p>
 
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted">
-            I design and automate cloud infrastructure — container orchestration,
-            infrastructure-as-code, and resilient CI/CD pipelines across{" "}
-            <span className="text-foreground">AWS</span> and{" "}
-            <span className="text-foreground">GCP</span> with{" "}
-            <span className="text-foreground">Kubernetes</span> and{" "}
-            <span className="text-foreground">Terraform</span>. Turning fragile,
-            manual deploys into systems that ship themselves — and building the apps
-            behind them with <span className="text-foreground">Python</span>,{" "}
-            <span className="text-foreground">Django/FastAPI</span> and{" "}
-            <span className="text-foreground">React</span>.
-          </p>
+  I work across cloud infrastructure and software development — building with{" "}
+  <span className="text-foreground">Kubernetes</span> and{" "}
+  <span className="text-foreground">Terraform</span> on{" "}
+  <span className="text-foreground">AWS</span> and{" "}
+  <span className="text-foreground">GCP</span>, wiring up CI/CD pipelines,
+  and shipping backends with <span className="text-foreground">Python</span>,{" "}
+  <span className="text-foreground">Django/FastAPI</span> alongside{" "}
+  <span className="text-foreground">React</span> front-ends.
+</p>
 
           <div className="mt-8 flex flex-wrap items-center gap-3">
             <a
